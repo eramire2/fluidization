@@ -1,4 +1,7 @@
-fluidization
-============
+#Fluidized Bed Hydrodynamics
 
-Fluidization functions related to particle dynamics and bed characteristics.
+Functions related to hydrodynamics of fluidized beds. .
+
+##License
+
+Code in this repository is available under the MIT license. See the LICENSE file for more information.
