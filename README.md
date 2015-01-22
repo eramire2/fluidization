@@ -1,7 +1,11 @@
-#Fluidized Bed Hydrodynamics
+## Fluidized Bed Hydrodynamics
 
-Functions related to hydrodynamics of fluidized beds. .
+Functions and examples related to hydrodynamics of fluidized beds.
 
-##License
+### References
+
+here
+
+### License
 
 Code in this repository is available under the MIT license. See the LICENSE file for more information.

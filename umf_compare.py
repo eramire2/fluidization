@@ -61,6 +61,7 @@ umf_LargeRe = umfLargeRe(rhog, dp, rhop, ep, phi)
 
 # Print Results to Console
 #------------------------------------------------------------------------------
+
 print('Umf = {:.4f} m/s Wen and Yu'.format(umf_WenYu))
 print('Umf = {:.4f} m/s Richardson'.format(umf_Rich))
 print('Umf = {:.4f} m/s Saxena and Vogel'.format(umf_SaxVogel))

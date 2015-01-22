@@ -5,12 +5,12 @@ Requirements:
 Python 3, NumPy
 
 Inputs:
-ug = gas viscosity, kg/ms
-rhog = gas density, kg/m^3
-dp = particle diameter, m
-rhop = particle density, kg/m^3
+ug = viscosity of gas, kg/ms
+rhog = density of gas, kg/m^3
+dp = diameter of bed particle, m
+rhop = density of bed particle, kg/m^3
 ep = void fraction, (-)
-phi = sphericity of particle, (-)
+phi = sphericity of bed particle, (-)
 
 Parameters:
 a1, a2 = coefficients, (-)
