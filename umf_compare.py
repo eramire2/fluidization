@@ -16,18 +16,18 @@ from funcUmf import umfErgun, umfLargeRe, umfSmallRe
 #------------------------------------------------------------------------------
 
 # particle properties
-dp = 0.000207   # bed particle diameter, m
+dp = 0.000360   # bed particle diameter, m
 rhop = 2500     # density of bed particle, kg/m^3
 
 # air properties at T=300K and P=1atm
 # literature values for air viscosity can vary
 # 1.846e-5 or 1.983e-5 or 1.73e-5 or 1.8568e-5 or 1.8531e-5 or 1.85e-5
-ug = 1.983e-5   # dynamic viscosity of air, kg/ms
-rhog = 1.17     # density of air, kg/m^3
+ug = 3.50e-5   # dynamic viscosity of gas, kg/ms
+rhog = 0.4417     # density of gas, kg/m^3
 
 # void fraction and sphericity for the Ergun equation
-ep = 0.46   # void fraction, (-)
-phi = 1.0   # sphericity, (-)
+ep = 0.46    # void fraction, (-)
+phi = 0.9   # sphericity, (-)
 
 # Umf Calculations
 #------------------------------------------------------------------------------
