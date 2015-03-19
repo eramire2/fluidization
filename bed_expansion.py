@@ -14,15 +14,15 @@ from funcFbexp import fbexp
 # Parameters
 #------------------------------------------------------------------------------
 
-umf = 0.2093    # minimum fluidization velocity, m/s
+umf = 0.1157    # minimum fluidization velocity, m/s
 u = 3.0*umf     # superficial gas velocity, m/s
 db = 0.05232    # bed diameter, m
 zmf = 0.1016    # bed height at minimum fluidizaiton, m
-emf = 0.45      # void fraction at minimum fluidization
+emf = 0.46      # void fraction at minimum fluidization
 rhop = 2500     # density of bed particle, kg/m^3
-dp = 0.0005     # diameter of bed particle, m
+dp = 0.0004     # diameter of bed particle, m
 g = 9.81        # gravity, m/s^2
-rhog = 0.6819   # density of gas, kg/m^3
+rhog = 0.4413   # density of gas, kg/m^3
 
 
 # Bed Expansion Calculations
