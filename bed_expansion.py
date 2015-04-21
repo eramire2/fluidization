@@ -1,4 +1,6 @@
 """
+ER Adds a line to commments, to see if Gavin sees this.....
+
 Determine expanded bed height using the bed expansion factor.
 Also compute the expanded bed void fraction.
 
